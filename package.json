@@ -26,6 +26,7 @@
     "@builder.io/qwik-city": "~0.103.0",
     "@cloudflare/workers-types": "^4.20230404.0",
     "@miniflare/d1": "^2.13.0",
+    "@miniflare/kv": "^2.13.0",
     "@miniflare/shared": "^2.13.0",
     "@types/eslint": "8.37.0",
     "@types/node": "^18.15.9",
